@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Prisma
+.prisma/
+dev.db
+*.sqlite
+
+# Logs
+logs
+*.log
+
+# Uploads temporários
+uploads/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# ts build artifacts
+*.tsbuildinfo
